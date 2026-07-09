@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [0.121.19](https://github.com/promptfoo/promptfoo/compare/0.121.18...0.121.19) (2026-07-09)
+
+
+### Features
+
+* **providers:** honor CLAUDE_CONFIG_DIR for Claude Code creds ([#9980](https://github.com/promptfoo/promptfoo/issues/9980)) ([a643f8b](https://github.com/promptfoo/promptfoo/commit/a643f8b8e13a93e89f1da229e3b77db3927bdf55))
+
+
+### Bug Fixes
+
+* **providers:** handle TrueFoundry guardrail blocks ([#10021](https://github.com/promptfoo/promptfoo/issues/10021)) ([a9cfc86](https://github.com/promptfoo/promptfoo/commit/a9cfc86ad2dd7807e10e9858d961855c70fd705c))
+
 ## [0.121.18](https://github.com/promptfoo/promptfoo/compare/0.121.17...0.121.18) (2026-07-07)
 
 ### Features
